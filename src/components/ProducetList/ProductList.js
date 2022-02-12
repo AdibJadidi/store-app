@@ -49,7 +49,7 @@ function ProductList() {
             // </tbody>;
           )
         ) : (
-          <p>hi</p>
+          <p>هیچ دسته بندی یا محصولی موجود نیست</p>
         )}
         {/* <tbody>{products ? <p></p> : <p></p>}</tbody> */}
       </div>
